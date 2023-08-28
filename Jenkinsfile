@@ -3,4 +3,4 @@
 env.component="aws-ssm-param-store"
 env.app_lang = "docker"
 
-ci()
+ci_scripted()
